@@ -1,0 +1,20 @@
+{
+  "name": "poorvank_url_shortener",
+  "version": "1.0.0",
+  "description": "This is my url shortener website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poorvank",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20",
+    "shortid": "^2.2.16",
+    "surge": "^0.23.1"
+  }
+}
